@@ -1,2 +1,3 @@
-# simple-e-learning-komj
-A simple e-learning platform for modern development workflows
+# Simple E Learning Komj
+
+A online learning platform for modern development workflows.
